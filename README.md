@@ -74,8 +74,8 @@ Currently working on multi-tenant SaaS solutions including POS, ERP, and Order M
 ## 🤝 Let's Connect
 
 - 💼 Open for remote opportunities and freelance work
-- 📫 Email: your-email@example.com
-- 🌐 Portfolio: your-portfolio-link
+- 📫 Email: sahadatsays@gmail.com
+- 🌐 Portfolio: appkotha.com 
 
 ---
 
