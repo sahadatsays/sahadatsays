@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahadat
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/15072398?v=4" width="100%" />
+  <img src="./images/linkedin_studio_dark_bg.png" style="max-width:400px; border-radius: 50%" />
 </p>
 
 <p align="center">
