@@ -117,12 +117,12 @@ Good software is not just working code — it's maintainable, predictable, and b
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahadatsays&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahadatsays&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahadatsays&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahadatsays&layout=compact&theme=tokyonight&hide_border=true&card_width=400&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahadatsays&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahadatsays&theme=tokyonight&hide_border=true&card_width=820" alt="GitHub Streak" />
 </p>
 
 ---
