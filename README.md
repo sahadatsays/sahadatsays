@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahadat
 
 <p align="center">
-  <img src="./github_profile_banner_dark_animated.svg" width="100%" />
+  <img src="[./github_profile_banner_dark_animated.svg](https://avatars.githubusercontent.com/u/15072398?v=4)" width="100%" />
 </p>
 
 <p align="center">
